@@ -1,4 +1,4 @@
-# Time-Vermelho
+# Time Vermelho
 
 ## Escola Alegre
 
