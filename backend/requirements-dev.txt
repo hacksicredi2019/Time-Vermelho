@@ -1,0 +1,14 @@
+Django>=2.0, <3.0
+Pillow
+django-cors-headers
+psycopg2
+graphene-django
+requests
+Werkzeug
+ipython
+ipdb
+model-mommy
+mock
+unittest2
+coverage
+bandit
